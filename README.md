@@ -1,7 +1,9 @@
 # Pemrograman-Web
 
 NAMA : DEFIT SEPTIAN FIRMANSYAH
+</p>
 NIM  : 105220027
+</p>
 BAHASA YANG DIGUNAKAN UNTUK PEMROGRAMAN WEB YANG SAYA KUASAI
 <p align="left">
 <a href="https://github.com/davidseptian1">
