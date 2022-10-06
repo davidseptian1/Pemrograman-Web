@@ -7,9 +7,13 @@ NIM  : 105220027
 Materi yang di bahas pada praktikum ini adalah mengenai 
 </p>
       1. Membuat Repository
+      </p>
       2. Membuat Markdown
+      </p>
       3. Meremot Local repository
+      </p>
       4. Membuat Branch
+      </p>
       
 BAHASA YANG DIGUNAKAN UNTUK PEMROGRAMAN WEB YANG SAYA KUASAI
 <p align="left">
